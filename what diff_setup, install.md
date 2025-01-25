@@ -1,7 +1,9 @@
 ## User:
+
 What different between setup, install?
 
 ## Assistant:
+
 The terms "setup" and "install" often refer to distinct processes in software development and deployment:
 
 1. **Install**: 

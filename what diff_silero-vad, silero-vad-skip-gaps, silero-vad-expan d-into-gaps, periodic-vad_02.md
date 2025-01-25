@@ -1,7 +1,9 @@
 ## User:
+
 Which one is suitable for transcribe audiobook? And which one is suitable for transcribe podcast? Why?
 
 ## Assistant:
+
 When considering which Voice Activity Detection (VAD) model is suitable for transcribing audiobooks versus podcasts, here are the recommendations based on the characteristics of each type of audio content:
 
 ### For Transcribing Audiobooks:

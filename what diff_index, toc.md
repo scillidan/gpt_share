@@ -1,5 +1,3 @@
-# 目录与索引的区别
-
 ## User:
 
 what diff are index and toc?
