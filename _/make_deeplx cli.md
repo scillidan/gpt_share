@@ -222,7 +222,7 @@ Please review this updated implementation. If it meets your expectations, I can 
 `python .py "您好！请问您需要什么？" en zh` return:
 
 ```
-Query error: The program has returned exit code 1. Traceback (most recent call last): File "C:\Users\User\Github\SETUP-note\goldendict\Script\deeplx_translate_user.py", line 70, in <module> main() File "C:\Users\User\Github\SETUP-note\goldendict\Script\deeplx_translate_user.py", line 66, in main for alt in alternatives: TypeError: 'NoneType' object is not iterable
+Query error: The program has returned exit code 1. Traceback (most recent call last): File "C:\Users\User\Git\SETUP-note\goldendict\Script\deeplx_translate_user.py", line 70, in <module> main() File "C:\Users\User\Git\SETUP-note\goldendict\Script\deeplx_translate_user.py", line 66, in main for alt in alternatives: TypeError: 'NoneType' object is not iterable
 ```
 
 
